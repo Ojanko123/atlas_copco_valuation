@@ -1,5 +1,5 @@
 # Atlas Copco AB Valuation
-## Reverse DCF • Fundamental DCF • Sum-of-the-Parts • Leveraged Buyout • Earnings Power Value (Python)
+## Reverse DCF, Fundamental DCF, Sum-of-the-Parts, Leveraged Buyout, Earnings Power Value (Python)
 
 > **Can Atlas Copco's premium market valuation be justified by fundamentals, or is the market pricing in near-perfect execution?**
 
